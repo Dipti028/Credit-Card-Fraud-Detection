@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# End-to-end credit card fraud detection on highly imbalanced data using XGBoost + threshold tuning.
 
 ## 📌 Project Overview
 This project focuses on detecting **fraudulent credit card transactions** using machine learning techniques.  
@@ -47,3 +47,4 @@ Due to the imbalanced nature of the dataset, the following metrics were prioriti
 - Confusion Matrix
 
 This ensures the model effectively identifies fraudulent transactions while controlling false positives.
+
