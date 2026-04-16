@@ -1,4 +1,4 @@
-# End-to-end credit card fraud detection on highly imbalanced data using XGBoost + threshold tuning.
+# Credit card fraud detection on highly imbalanced data using XGBoost & Threshold tuning.
 
 ## 📌 Project Overview
 This project focuses on detecting **fraudulent credit card transactions** using machine learning techniques.  
